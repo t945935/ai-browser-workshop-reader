@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0-draft-results-review6",
+  "files": [
+    {
+      "file": "chapters.zip",
+      "bytes": 1037613,
+      "sha256": "634bb386c14a10e1440930760da96e85c5e47945b11dc4c1bd8ee1557b99c0b9"
+    },
+    {
+      "file": "chapter-history.bundle",
+      "bytes": 138885,
+      "sha256": "cddbc80ae97fc68d069ef3e37486b6b00fdaf23b5b009c1c4f30147ff0920a3f"
+    }
+  ]
+}
